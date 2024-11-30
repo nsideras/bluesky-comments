@@ -74,7 +74,7 @@ const rootElement = document.querySelector("#comments");
             }
             else
             {
-                return uri;
+                return url;
             }
         }
 
